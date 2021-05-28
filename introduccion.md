@@ -1,3 +1,5 @@
+# UNIVERSIDAD TECNOLOGICA NACIONAL
+-------------
 # TECNICATURA SUPERIOR EN PROGRAMACION
 # ASIGNATURA MATEMATICA
 ## PLANIFICACION DE LA ASIGNATURA AÑO 2021
@@ -5,9 +7,7 @@ Fecha de elaboración: 01.11.2020 - Fecha modificación: 4.3.2021  – v253
 ### DATOS INICIALES
  - MODALIDAD DE CURSADO: CUATRIMESTRAL
  - CARGA HORARIA: 9 hs/semana
- - DOCENTES:
-	 - Practica: Sofia Denner
-	 - Teoria: Leonardo Magliaro
+ - DOCENTES: SOFIA DENNER Y LEONARDO MAGLIARO
 ### INTRODUCCION
 El desarrollo de un país depende, cada vez más, de su desarrollo científico - tecnológico y en ese desarrollo la formación en matemáticas juega, indudablemente, un papel central.
 Además de ser clave en el crecimiento personal de nuestros estudiantes por su carácter instrumental y las habilidades lógicas y flexibilidad mental que les aporta, la matemática es el pilar fundamental de muchas ciencias.
