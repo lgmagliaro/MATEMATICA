@@ -1,7 +1,7 @@
 # UNIDAD 7 - UNIDAD 8
 ## RESOLUCIÓN DE SISTEMAS DE ECUACIONES
 ### Guía de ejercicios - Parte 1
-Determine el conjunto solución de los siguientes sistemas:
+1. Determine el conjunto solución de los siguientes sistemas:
 
 $2x-y=2$
 $3x+y=8$
@@ -118,11 +118,11 @@ $8=5I_4+I_1$
 $4=3I_3+I_1$
 $I_3+I_4=I_1$
 
-Verificar si $(0,0,0)$ es conjunto solución de: $2x+3y-z=0$; $5x+3y=8$; $x+y-3z=0$
+2. Verificar si $(0,0,0)$ es conjunto solución de: $2x+3y-z=0$; $5x+3y=8$; $x+y-3z=0$
 
-Verificar si $x=0; y=-1; z=3$ es conjunto solución de: $2x+3y=-z$; $5x+3y=-3$; $x+y=10+3z$
+3. Verificar si $x=0; y=-1; z=3$ es conjunto solución de: $2x+3y=-z$; $5x+3y=-3$; $x+y=10+3z$
 
-Determine el valor de $k$ de los dos sistemas para que el sea: a) SCD; b) SCI; c) SI
+4. Determine el valor de $k$ de los dos sistemas para que el sea: a) SCD; b) SCI; c) SI
 
 $k^2x=y-8$
 $4k=2y-32x$
@@ -133,12 +133,12 @@ $4x-4y=k$
 $y-4=k^2x$
 $y-16x=k$
 
-Encuentre el valor de $k$ para que el sistema sea SCD
+5. Encuentre el valor de $k$ para que el sistema sea SCD
 
 $2x+y+1=3(y+1)+x$
 $3x-3y=k+3y$
 
-Estudiar si existe un valor de $m$ para que los sistemas propuestos sean SCD
+6. Estudiar si existe un valor de $m$ para que los sistemas propuestos sean SCD
 
 $-x+y+z=m$
 $x+y-z=3$
@@ -147,3 +147,12 @@ $x+y+z=4$
 $x+my+z=1$
 $mx+y+(m-1)z=m$
 $x+y+z=m+1$
+
+7. Que valor de $\lambda$ hace que el sistema sea a) SCD; b) SCI
+
+$x_1+2x_2=0$
+$3x_1+\lambda x_2=0$
+
+$-x_1+2x_2+x_3=0$
+$3x_1-x_2+2x_3=0$
+$x_2+\lambda x_3=0$
