@@ -124,14 +124,14 @@ $I_3+I_4=I_1$
 
 4. Determine el valor de $k$ de los dos sistemas para que el sea: a) SCD; b) SCI; c) SI
 
-$k^2x=y-8$
-$4k=2y-32x$
-
 $x-y=3$
 $4x-4y=k$
 
 $y-4=k^2x$
 $y-16x=k$
+
+$4x+y=k$
+$2k^2x+2y=4$
 
 5. Encuentre el valor de $k$ para que el sistema sea SCD
 
